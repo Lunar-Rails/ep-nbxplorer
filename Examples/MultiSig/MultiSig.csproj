@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NBXplorer.Client" Version="4.2.0" />
+    <PackageReference Include="NBXplorer.Client" Version="4.2.1" />
+    <PackageReference Include="System.Net.Security" Version="4.3.1" />
   </ItemGroup>
 
 </Project>
